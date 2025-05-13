@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+mysql-connector-python
+transformers
+torch
+Jinja2
+sentencepiece
+python-dotenv
